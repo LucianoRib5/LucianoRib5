@@ -2,7 +2,7 @@
 <div align="justify">
   <a href="https://github.com/lucianorib5/">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=lucianorib5&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoRib5&layout=compact&langs_count=7&theme=noctis_minimus"/>
+<!--   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoRib5&layout=compact&langs_count=7&theme=noctis_minimus"/> -->
 </div>
   
 <div style="display: inline_block">
