@@ -1,14 +1,5 @@
 ## Fala Devs...meu nome é Luciano Ribeiro 👋
-### Sejam bem-vindos ao meu perfil ! 
-### Algo sobre mim 🔎
-Desenvolvedor Full Stack em formação no bootcamp da Labenu, 
-onde vivencio diversas experiências de atividades práticas e 
-projetos relevantes ao mercado de trabalho, sendo desenvolvidos 
-em equipe ou de forma individual, atualmente me encontro na reta 
-final e estou cursando o módulo do Back end. 
-
-📚 Cursando engenharia de Software na UNIGRAN - Centro Universitário da Grande 
-Dourados.
+### Sejam bem-vindos ao meu perfil !
 
 ### Ferramentas e Tecnologias 🛠️
 <div>
