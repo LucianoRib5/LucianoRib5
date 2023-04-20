@@ -22,10 +22,10 @@
   <a href = "mailto:luciano.eng.soft@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<!-- <div>
+<div>
     <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoRib5&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoRib5&layout=compact&langs_count=7&theme=dark"/>
 
-</div> -->
+</div>
 
  ![Snake animation](https://github.com/lucianorib5/lucianorib5/blob/output/github-contribution-grid-snake.svg)
