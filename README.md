@@ -2,7 +2,7 @@
 
 ### Sejam bem-vindos ao meu perfil 🤖
 
-Atualmente estou atuando como Desenvolvedor Full-Stack na Mil Totvs Partner. Sou experiente em React, Typescript, Styled-components, <br> Material UI e Node, com conhecimentos sólidos em Git, MySQL, NoSQL e RESTful.
+Atualmente estou atuando como Desenvolvedor Full-Stack na Mil Totvs Partner. Sou experiente em React, Typescript, <br> Styled-components, Material UI e Node, com conhecimentos sólidos em Git, MySQL, NoSQL e RESTful.
 
 Estou cursando Engenharia de Software, além disso estou estudando Java/Spring e Next.
 
