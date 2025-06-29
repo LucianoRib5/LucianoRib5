@@ -1,33 +1,25 @@
-# Olá, eu sou o Luciano, muito prazer 👋
+# Hello, I'm Luciano — nice to meet you!
 
-### Sejam bem-vindos ao meu perfil 🤖
+### Welcome to my GitHub profile
 
-Atualmente estou atuando como Desenvolvedor Full-Stack <a href="https://rankmyapp.com/pt-br/">RankMyApp</a>. Sou experiente em React, Typescript, <br> Styled-components, Material UI e Node, com conhecimentos sólidos em Git, MySQL, NoSQL e RESTful.
+I'm currently working as a **Full-Stack Developer**, with a strong preference and focus on **Back-End development**.
 
-Estou cursando Engenharia de Software, além disso estou estudando Java/Spring e Next.
+I have solid experience with **React**, **TypeScript**, **Styled-components**, **Material UI**, and **Node.js**. I'm also proficient in **Git**, **MySQL**, **NoSQL**, and **RESTful APIs**.
 
-### Ferramentas e Tecnologias 🛠️
+I recently graduated with a degree in **Software Engineering**, and I'm currently specializing in **Java** and **Spring**, aiming to grow as a back-end engineer.
+
+### Tools and Technologies 🛠️
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/>          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" width="40" height="40"/>          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>       
 </div>
 
-### 📭 Contatos 
+### 📭 Contact us 
 <div style={margin-bottom: 1rem}> 
   <a href="https://www.linkedin.com/in/luciano-ribeiro-santos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "mailto:luciano.eng.soft@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
