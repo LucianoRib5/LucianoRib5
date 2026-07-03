@@ -1,36 +1,88 @@
-# Hello, I'm Luciano — nice to meet you!
+<div align="center">
 
-### Welcome to my GitHub profile
+# Luciano Ribeiro
 
-I'm currently working as a **Full-Stack Developer**, with a strong preference and focus on **Back-End development**.
+### Full-Stack Developer focused on Back-End Engineering
 
-I have solid experience with **React**, **TypeScript**, **Styled-components**, **Material UI**, and **Node.js**. I'm also proficient in **Git**, **MySQL**, **NoSQL**, and **RESTful APIs**.
+I build APIs and web applications with a focus on architecture, security, testing, and user experience.
 
-I recently graduated with a degree in **Software Engineering**, and I'm currently specializing in **Java** and **Spring**, aiming to grow as a back-end engineer.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luciano_Ribeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-ribeiro-santos/)
+[![E-mail](https://img.shields.io/badge/E--mail-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luciano.eng.soft@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-LucianoRib5-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucianoRib5)
 
-### Tools and Technologies 🛠️
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>       
 </div>
 
-### 📭 Contact us 
-<div style={margin-bottom: 1rem}> 
-  <a href="https://www.linkedin.com/in/luciano-ribeiro-santos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href = "mailto:luciano.eng.soft@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+## About me
+
+- 🎓 Software Engineering graduate.
+- 💻 Full-stack developer with a strong interest in back-end engineering.
+- 🧩 Experienced with REST APIs, web applications, SQL, and NoSQL databases.
+- 🚀 Currently building solutions with TypeScript, NestJS, Prisma, and PostgreSQL.
+- ☕ I also build back-end applications with Java and Spring.
+
+## Tech stack
+
+<div align="center">
+  <img
+    src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,java,spring,react,nextjs,html,css,postgres,mysql,mongodb,redis,prisma,docker,git,github,jest&perline=10"
+    alt="TypeScript, JavaScript, Node.js, NestJS, Java, Spring, React, Next.js, HTML, CSS, PostgreSQL, MySQL, MongoDB, Redis, Prisma, Docker, Git, GitHub, and Jest"
+  />
 </div>
 
-<hr>
+## GitHub stats
 
-<div>
-  <a href="https://github.com/LucianoRib5">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoRib5&layout=compact&langs_count=7&theme=highcontrast"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoRib5&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucianoRib5&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucianoRib5&theme=default"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucianoRib5&theme=default"
+      alt="Luciano Ribeiro GitHub contribution summary"
+    />
+  </picture>
 </div>
 
- ![Snake animation](https://github.com/lucianorib5/lucianorib5/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucianoRib5&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucianoRib5&theme=default"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucianoRib5&theme=default"
+      alt="Repositories by language"
+    />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucianoRib5&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucianoRib5&theme=default"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucianoRib5&theme=default"
+      alt="Luciano Ribeiro GitHub statistics"
+    />
+  </picture>
+</div>
+
+<div align="center">
+
+### Contributions
+
+![Luciano Ribeiro contribution animation](https://raw.githubusercontent.com/LucianoRib5/LucianoRib5/output/github-contribution-grid-snake.svg)
+
+</div>
