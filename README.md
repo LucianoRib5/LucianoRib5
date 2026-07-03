@@ -83,6 +83,19 @@ I build APIs and web applications with a focus on architecture, security, testin
 
 ### Contributions
 
-![Luciano Ribeiro contribution animation](https://raw.githubusercontent.com/LucianoRib5/LucianoRib5/output/github-contribution-grid-snake.svg)
+<picture>
+  <source
+    srcset="https://raw.githubusercontent.com/LucianoRib5/LucianoRib5/output/github-contribution-grid-snake-dark.svg?v=2"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://raw.githubusercontent.com/LucianoRib5/LucianoRib5/output/github-contribution-grid-snake.svg?v=2"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    src="https://raw.githubusercontent.com/LucianoRib5/LucianoRib5/output/github-contribution-grid-snake.svg?v=2"
+    alt="Luciano Ribeiro contribution animation"
+  />
+</picture>
 
 </div>
